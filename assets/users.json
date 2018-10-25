@@ -1,0 +1,22 @@
+[
+    {
+        "img": "/assets/imgs/1.jpg",
+        "name": "Jack Williams",
+        "designation": "UI/UX Designer"
+    },
+    {
+        "img": "/assets/imgs/2.jpg",
+        "name": "Joe Doe",
+        "designation": "Web Developer"
+    },
+    {
+        "img": "/assets/imgs/3.jpg",
+        "name": "Johnson Ray",
+        "designation": "Backend Developer"
+    },
+	{
+        "img": "/assets/imgs/1.jpg",
+        "name": "William Pearson",
+        "designation": "Backend Developer"
+    }
+]

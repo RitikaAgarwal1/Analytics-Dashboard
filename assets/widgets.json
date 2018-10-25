@@ -1,0 +1,52 @@
+[
+    {
+        "id": "1",
+        "title": "Project Activity",
+        "type": "AREACHART",
+        "url": "/assets/projectactivity.json",
+        "compare": true,
+        "x": 0,
+        "y": 0,
+        "rows": 4,
+        "cols": 12,
+        "config": {
+            "x": "Day",
+            "y": "Last",
+            "z": "Month",
+            "y1": "Current",
+            "fields": [
+                "Month", "Day", "Last", "Current"
+            ]
+        }
+    },
+    {
+        "id": "2",
+        "title": "Involved Team",
+        "type": "USERLIST",
+        "url": "/assets/users.json",
+        "config": {},
+        "x": 0,
+        "y": 0,
+        "rows": 4,
+        "cols": 3
+    },
+    {
+        "id": "3",
+        "title": "Managers Activity",
+        "type": "BARCHART",
+        "url": "/assets/manageractivity.json",
+        "x": 0,
+        "y": 0,
+        "rows": 4,
+        "cols": 9,
+        "config": {
+            "x": "Day",
+            "y": "Value",
+            "z": "Month",
+            "d4": "Phone Calls",
+            "fields": [
+                "Month", "Day", "Phone Calls",  "Value"
+            ]
+        }
+    }
+]
